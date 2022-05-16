@@ -1,4 +1,4 @@
-package com.spring_data.spring;
+package com.br.run;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
